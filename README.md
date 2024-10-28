@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Profile Card
+Deployment Link : https://gentle-platypus-f59b6b.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
