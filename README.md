@@ -1,6 +1,12 @@
 # Profile Card
 Deployment Link : https://gentle-platypus-f59b6b.netlify.app/
 
+In the project directory, you can run:
+
+**npm start**
+Runs the app in the development mode.
+
+
 
 ## Overview
 
